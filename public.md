@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Speaking
+permalink: /public/
 ---
 
 [Introduction to Video Analysis with CUDA and OpenCV (Fosdem 2019)](https://www.youtube.com/watch?v=JP1sqaogZ28&t=3s)

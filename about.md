@@ -13,5 +13,6 @@ I am big history geek and am fascinated by medival European and Central Asain hi
 
 ### Links
 
-[Random Shower Thoughts] (https://samrk09.blogspot.com/)
-[Public Speaking] (http://sam09.github.io/public)
+[Random Shower Thoughts](https://samrk09.blogspot.com/)
+
+[Speaking](http://sam09.github.io/public)
